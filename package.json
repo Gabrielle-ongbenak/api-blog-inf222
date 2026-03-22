@@ -1,7 +1,7 @@
 {
-  "name": "mon-blog-backend",
+  "name": "gabytech-api",
   "version": "1.0.0",
-  "description": "API de gestion de blog pour le TP INF222 - UY1",
+  "description": "Systeme de gestion d'articles - TP INF222",
   "repository": {
     "type": "git",
     "url": "https://github.com/Gabrielle-ongbenak/api-blog-inf222.git"
